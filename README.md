@@ -31,6 +31,7 @@ A new Flutter project that provides weather updates and air quality information.
 - `assets`: Contains the assets used in the application.
 - `android`, `ios`, `linux`, `macos`, `windows`: Platform-specific code for the application.
 - `pubspec.yaml`: Contains the dependencies and configuration for the Flutter project.
+- PROVIDER STATE MANAGMENT 
 
 ## Dependencies
 - `geolocator`: To fetch the user's current location.
