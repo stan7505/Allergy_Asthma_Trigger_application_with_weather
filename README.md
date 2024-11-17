@@ -21,19 +21,19 @@ A new Flutter project that provides weather updates and air quality information.
 - Background tasks include fetching weather updates periodically and sending notifications even when the app is not in the foreground.
 
 ### AI & ML
-- The project does not currently implement AI or ML features. However, it can be extended to include predictive models for weather forecasting or air quality predictions using machine learning algorithms.
+- The project uses AI & Ml to predict future Air Quality, using TensorFlow , and TensorFlow lite.
 
 ## Project Structure
 - `lib`: Contains the main application code.
-  - `main.dart`: Entry point of the application.
-  - `weather_service.dart`: Contains the logic for fetching weather data from the OpenWeatherMap API.
-  - `Pages/`: Contains the UI pages of the application.
+  - `main. dart`: Entry point of the application.
+  - `weather_service.dart`: The logic for fetching weather data from the OpenWeatherMap API.
+  - `Pages/`: Contains the application's UI pages.
 - `assets`: Contains the assets used in the application.
 - `android`, `ios`, `linux`, `macos`, `windows`: Platform-specific code for the application.
 - `pubspec.yaml`: Contains the dependencies and configuration for the Flutter project.
 
 ## Dependencies
-- `geolocator`: For fetching the user's current location.
+- `geolocator`: To fetch the user's current location.
 - `flutter_local_notifications`: For sending local notifications.
 - `flutter_background_service`: For running background tasks.
 - `http`: For making HTTP requests to the OpenWeatherMap API.
