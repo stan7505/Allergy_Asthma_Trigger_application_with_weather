@@ -61,7 +61,7 @@ The application uses the flutter_background_service package to run tasks in the 
 ## Conclusion
 This project serves as a starting point for building a comprehensive weather application using Flutter. It demonstrates the integration of various Flutter plugins and APIs to provide a seamless user experience.
 
-<img src="https://github.com/user-attachments/assets/c7cb6ee3-3c5e-4b63-8b2e-23126bff1f3b" alt="weather" width="300" height="300">
-<img src="https://github.com/user-attachments/assets/9eb31015-acc8-4bc3-a0b0-ae95401c30f4" alt="Screenshot_2024-11-17-14-35-27-81_0e129472393371b4b5242915a337985a" width="300" height="300">
-<img src="https://github.com/user-attachments/assets/5f45d911-15c4-4e3a-8b1f-a9b23b57307b" alt="Screenshot_2024-11-17-14-36-44-96_0e129472393371b4b5242915a337985a" width="300" height="300">
-<img src="https://github.com/user-attachments/assets/3a12361b-1735-466d-ac94-b8e4edd61457" alt="Screenshot_2024-11-17-14-36-06-01_0e129472393371b4b5242915a337985a" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/c7cb6ee3-3c5e-4b63-8b2e-23126bff1f3b" alt="weather" width="300">
+<img src="https://github.com/user-attachments/assets/9eb31015-acc8-4bc3-a0b0-ae95401c30f4" alt="Screenshot_2024-11-17-14-35-27-81_0e129472393371b4b5242915a337985a" width="300" >
+<img src="https://github.com/user-attachments/assets/5f45d911-15c4-4e3a-8b1f-a9b23b57307b" alt="Screenshot_2024-11-17-14-36-44-96_0e129472393371b4b5242915a337985a" width="300" >
+<img src="https://github.com/user-attachments/assets/3a12361b-1735-466d-ac94-b8e4edd61457" alt="Screenshot_2024-11-17-14-36-06-01_0e129472393371b4b5242915a337985a" width="300" >
